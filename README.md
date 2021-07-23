@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @citrez
+- 👋 Hi, I’m Ezra Citron
 - 👀 I’m interested in data science, ML, R and all things tidyverse. 
 - 🌱 I’m currently learning a bit about webdev with hugo/blogdown.
 - 💞️ I’m looking to collaborate on an interesting R package
